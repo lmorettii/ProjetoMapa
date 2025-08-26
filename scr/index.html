@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Mapa Interativo — Projeto</title>
+
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="" crossorigin=""/>
+
+  <!-- Seu CSS -->
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="header-inner">
+      <div class="title">
+        <h1>Mapa Interativo</h1>
+        <p>Busque um endereço e posicione marcadores no mapa.</p>
+      </div>
+
+    <form id="searchForm" class="search-form" aria-label="Buscar endereço">
+  <input type="text" id="addressInput" placeholder="Digite um endereço (ex: Av. Paulista, São Paulo)" required />
+    <button type="submit">🔍 Buscar</button>
+</form>
+
+<button id="clearMarkersBtn" class="clear-btn">❌ Remover Pontos</button>
+
+<button id="locateBtn" class="locate-btn">📍 Meu Local</button> 
+
+  </header>
+
+  <main>
+    <div id="map"></div>
+  </main>
+
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="" crossorigin=""></script>
+
+  <!-- Seu JS -->
+  <script src="js/script.js"></script>
+</body>
+</html>

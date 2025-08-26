@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Praça Central",
+    "lat": -23.55052,
+    "lng": -46.633308,
+    "description": "Ponto de encontro da cidade — feira aos sábados.",
+    "image": "assets/images/pontoA.jpg"
+  },
+  {
+    "title": "Casa Cultural",
+    "lat": -23.5587,
+    "lng": -46.6250,
+    "description": "Espaço de shows e exposições.",
+    "image": "assets/images/pontoB.jpg"
+  },
+  {
+    "title": "Ponto de Doação",
+    "lat": -23.5435,
+    "lng": -46.6341,
+    "description": "Ponto de coleta semanal para doações.",
+    "image": ""
+  }
+]
