@@ -38,7 +38,7 @@ ProjetoMapa/
 1. **Baixe o repositório** ou clone com Git:
 
    ```bash
-   git clone https://github.com/SEU_USUARIO/ProjetoMapa.git
+(https://github.com/lmorettii/ProjetoMapa)
    ```
 
 2. **Abra o projeto no VS Code** (ou editor de sua preferência).
@@ -50,32 +50,8 @@ ProjetoMapa/
 
 ---
 
-## 🚀 Funcionalidades
-
-* **Adicionar pontos** → pesquise um endereço e adicione ao mapa.
-* **Meu Local** → insira seu endereço e veja seu local com um ícone diferente.
-* **Remover pontos** → limpa todos os marcadores do mapa.
-* **Design personalizado** → mapa centralizado em um card estilizado.
-
----
-
-## 🎨 Personalização
-
-Você pode trocar cores, fontes e ícones no arquivo `style.css` e em `assets/icons/`.
-Exemplo: substitua `meulocal.png` por outro ícone da sua preferência.
-
----
-
 ## 📸 Demonstração
 
-*(Adicione aqui um print da tela do seu projeto para deixar mais bonito!)*
+<img width="1907" height="935" alt="image" src="https://github.com/user-attachments/assets/5afbda76-cae7-4f30-b9ca-8604c58c5a59" />
 
----
 
-## 👨‍💻 Autor
-
-Projeto desenvolvido para fins de estudo e prática de integração de mapas.
-
----
-
-👉 Quer que eu já **adicione ao README prints prontos do projeto rodando** (eu gero imagens de exemplo do mapa com os marcadores)?
