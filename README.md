@@ -38,7 +38,7 @@ ProjetoMapa/
 1. **Baixe o repositório** ou clone com Git:
 
    ```bash
-(https://github.com/lmorettii/ProjetoMapa)
+https://github.com/lmorettii/ProjetoMapa
    ```
 
 2. **Abra o projeto no VS Code** (ou editor de sua preferência).
